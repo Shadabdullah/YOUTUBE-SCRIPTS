@@ -1,0 +1,1323 @@
+Booking Time,Delivery Time,Customer Name,Item Name,Phone Number,Order Number,Amount,Address,Prepaid/Postpaid
+2023-09-20 12:51:40.921296+00:00,04:06,YOUSEF,FOOD,99071118,ADXD,0.00,MUBARAK AL - ABDULLAH BLOCK-1 STREET-115 BUILDING-1 UNIT-33,Paid
+2023-09-21 17:18:50.818236+00:00,04:06,reem,FOOD,94462474,5002,0.00,"BLOCK-7 STREET-5 BUILDING-14 ANDALOUS, FARWANIYA",Paid
+2023-09-21 18:19:38.624370+00:00,04:06,MOHAMAD ARABI,ICE CREAM,60008596,485,0.00,"HAWALLY,BLOCK-0 STREET-TUNIS APT-MAHDY ABO RAMIA FLOOR-M OFFICE 17",Paid
+2023-09-21 20:26:23.600767+00:00,04:06,SHAIKH,FOOD,50408001,5005,0.00,BLOCK-8 STREET-29 HOUSE-29 MUBARAK AL KABIR,Paid
+2023-09-22 12:17:52.507443+00:00,04:06,IBRAHIM HASAN,FOOD,90094077,9P49-U9QA,0.00,"JABER AL HAMAD
+BLOCK 6, STREET 687, UNIT 8 PARCEL 19, UNIT TYPE HOUSE",Paid
+2023-09-22 13:10:08.203502+00:00,04:06,shahad,FOOD,60066110,5006,0.00,"block-1 street-1 building-14 SALWA, HAWALLY",Paid
+2023-09-22 13:15:34.525988+00:00,04:06,ali amin,FOOD,96073210,5007,0.00,"block-10 street-35 house-5 bayan, hawally",Paid
+2023-09-22 15:00:29.090026+00:00,04:06,MANAL,FOOD,97492929,TW44,0.00,BLOCK-6 STREET-11 UNIT-38 JABRIYA,Paid
+2023-09-22 15:10:19.841093+00:00,04:06,WOMEN Q8,FOOD,99500530,QFRT,0.00,BLOCK-5 STREE-11 UNIT-7 SURRA,Paid
+2023-09-22 15:28:40.185335+00:00,04:06,A,FOOD 3,60606128,5008,0.00,BLOCK-4 STREET-1 BUILDING37 BAYAN,Paid
+2023-09-22 16:49:15.883047+00:00,04:06,ABDUL,FOOD4,66999303,5009,6300.00,BLOCK-2 STREET-209 HOUSE11 ABDULLAH AL-MUBARAK-WEST JELEEB,Cash
+2023-09-22 17:04:59.631038+00:00,04:06,NAWAL,FOOD5,98849979,5010,0.00,BLOCK-6 STREET-1 AVENUE18 HOUSE-44 SABAH AL-SALEM,Paid
+2023-09-22 17:50:00.681609+00:00,04:06,A,FOOD6,98996885,5011,0.00,"Block: Block 9, Street: Sayeed Yaseen Al Tabtabaie Street Building Name/No: Al-Firdous Building 33
+
+ 
+, Hawally, Salmiya
+
+Floor: 3,
+Apt.: 21
+Address Type: Building, Apartment/Office: 21, Additional Directions: Opposite Al-Tarkit Mosque, in the same building, there is Hala Plus and Al-Dimashqi Meat Salon.",Paid
+2023-09-22 19:30:38.891218+00:00,04:06,ABDULAZIZ MELHEM,MOJITO,99424409,5012,0.00,"ABDULLAH AL MUBARAK - WEST JELEEB, FARWANIYA, VILLA HOUSE",Paid
+2023-09-22 20:19:09.629054+00:00,04:06,KK,FOOD,50755424,5014,0.00,"Block: قطعة 2, Street: شارع 206 House Name/No: 39
+
+ 
+, Farwaniya, Ashbeliah
+
+Address Type: Villa House",Paid
+2023-09-25 19:07:17.703812+00:00,19:53,ahmed shaker,FOOD,69690965,5027,0.00,"block-1 street-38 house-16 al Qurain,",Paid
+2023-09-26 19:33:08.826827+00:00,20:15,Na,FOOD,90035001,5031,0.00,"lock: Block 2, Street: Street 31 House Name/No: House 16
+
+ 
+, Mubarak Al-Kabir, Mubarak Al-Kabir
+
+Apt.: House 16
+Address Type: Villa House",Paid
+2023-09-27 13:24:12.342010+00:00,14:29,Taiba Almarzouq,FOOD,97585454,5034,6.00,Abdullah Al-Mubarak - West Jeleeb,Cash
+2023-09-27 18:56:52.492822+00:00,21:00,dhari,paddle,97448844,1,0.00,al-masayel block5 street521 house7,Paid
+2023-09-28 16:15:40.935769+00:00,16:58,A,ICE CREAM,65109000,5038,0.00,"Block: قطعة 4, Street: شارع 9 House Name/No: 6
+
+ 
+, Farwaniya, Rabiya
+
+Address Type: Villa House",Paid
+2023-09-28 18:00:33.141891+00:00,18:52,Manahel Al-luhaib,FOOD,99602086,5042,-6.00,"Block: Block 7, Street: 1 House Name/No: ١ Farwaniya, Ferdous 
+Villa House, Judda: 6",Paid
+2023-09-29 12:28:48.174890+00:00,13:56,sh,FOOD,94994150,5045,0.00,"Block: 1, Street: شارع 67 Office Name/No: four seasons hotel
+
+ 
+, Kuwait City (Capital), Mirqab
+
+Floor: 8,
+Apt.: four seasons
+Address Type: Office, Apartment/Office: four seasons , Additional Directions: room 811 floor 8",Paid
+2023-09-30 15:16:25.374411+00:00,16:16,laura,FOOD,69044093,5057,11.00,"Block: Block 1, Street: Abdulrahman Al-Ghafiqi Street Building Name/No: 40
+
+ 
+, Hawally, Salwa
+
+Floor: 2,
+Apt.: 9
+Address Type: Building, Apartment/Office: 9",Cash
+2023-10-02 14:31:27.691151+00:00,15:31,nourah,FOOD,99733038,5064,0.00,"Block: قطعة 3, Street: شارع 13 Building Name/No: 21
+
+ 
+, Farwaniya, Rehab
+
+Floor: 0,
+Apt.: 0
+Address Type: Building, Apartment/Office: 0",Paid
+2023-10-03 13:28:44.034384+00:00,14:32,AMNA ALSAFFAR,FOOD,96698552,ZAYDA,0.00,"Abu Fatira , Block 4, House 51, Street St245",Paid
+2023-10-03 18:08:02.674185+00:00,19:10,IBRAHIM,FOOD,50492082,FOOD1,8.00,"ulaibikhat, Block 2, Avenue 11, House 21, Street 104
+
+Note:
+
+There is another house number 21",Cash
+2023-10-03 18:09:02.350460+00:00,19:07,ZAINAB,ICE CREAM,60409082,5071,0.00,"Block: Block 7, Street: 71 Street House Name/No: 8
+
+ 
+, Hawally, Rumaithiya
+
+Address Type: Villa House",Paid
+2023-10-03 19:27:34.787209+00:00,20:11,NA,ICE CREAM,90035001,5073,0.00,"Block: قطعة 2, Street: شارع 31 House Name/No: منزل ١٦
+
+ 
+, Mubarak Al-kabir, Mubarak Al-Kabir
+
+Apt.: منزل ١٦
+Address Type: Villa House",Paid
+2023-10-04 17:30:44.733051+00:00,18:04,ANFAL,FOOD,55602050,5077,0.00,"Block: Block 6, Street: 1 St 18 Lane Building Name/No: 44
+
+ 
+, Mubarak Al-kabir, Sabah Al-Salem
+
+Floor: -,
+Apt.: -
+Address Type: Building, Judda: 18, Apartment/Office: -",Paid
+2023-10-04 19:57:19.009381+00:00,20:44,KHADIYA,FOOD,99313316,5079,0.00,"Block: Block 2, Street: 37 Street House Name/No: 8
+
+ 
+, Mubarak Al-kabir, Adan
+
+Address Type: Villa House, Additional Directions: Call when you arrive",Paid
+2023-10-05 16:59:33.529575+00:00,17:46,ali odeh,ICE CREAM,94421333,5081,0.00,"block 2, street 3, home 18 floor 2 apartment 2 salwa, hawally (right entrance 99)",Paid
+2023-10-06 12:14:21.150888+00:00,12:59,A,FOOD,55500316,5087,0.00,"Block: Block 2, Street: Streer 212 House Name/No: 233
+
+ 
+, Kuwait City (Capital), Ghornata",Paid
+2023-10-06 13:26:02.767173+00:00,13:58,AHMAD ALAWADHI,FOOD,99872116,#9867,10.00,REHAB BLOCK1 STREET29 HOUSE 1 KUWAIT,Cash
+2023-10-06 13:50:53.970242+00:00,14:34,M,FOOD,99623848,5089,0.00,"Block: قطعة 6, Street: شارع حراء Building Name/No: 12A
+
+ 
+, Hawally, Rumaithiya
+
+Floor: 2,
+Apt.: 6
+Address Type: Building, Judda: 67, Apartment/Office: 6",Paid
+2023-10-06 14:38:56.658926+00:00,18:59,A,FOOD,50965069,5090,7.00,"lock: Block 10, Street: 7 Street Building Name/No: 155
+
+ 
+, Farwaniya, Andalous
+
+Floor: 0,",Cash
+2023-10-06 15:17:43.527176+00:00,16:06,ICE,FOOD,50102102,5091,0.00,"Block: قطعة 8, Street: شارع 1 Building Name/No: 32
+
+ 
+, Hawally, Salwa
+
+Floor: الثالث,
+Apt.: 1
+Address Type: Building, Judda: الدور الثالث 3B) elefator), Apartment/Office: 1",Paid
+2023-10-06 15:30:20.923730+00:00,16:15,97576002 A,FOOD,97576002,5092,0.00,"Block: قطعة 3, Street: شارع 1 House Name/No: 84
+
+ 
+, Farwaniya, Andalous
+
+Address Type: Villa House
++96597576002",Paid
+2023-10-06 16:26:38.547211+00:00,17:10,hor,FOOD,99250126,5093,6.00,"Block: قطعة 4, Street: 6 St House Name/No: 43
+
+ 
+, Kuwait City (Capital), Doha
+
+Address Type: Villa House
++96599250126",Cash
+2023-10-06 17:37:27.627713+00:00,18:33,amin,FOOD,51050608,5094,0.00,"Block: 10, Street: 8 Building Name/No: 161
+
+ 
+, Farwaniya, Andalous
+
+Floor: 1,
+Apt.: 3
+Address Type: Building, Apartment/Office: 3",Paid
+2023-10-06 17:41:46.382619+00:00,18:41,ali,FOOD,50506998,5095,6.00,"Block: قطعة 8, Street: Street 202 Building Name/No: 129-2
+
+ 
+, Mubarak Al-kabir, Abu Ftaira
+
+Floor: 2,
+Apt.: 6
+Address Type: Building, Apartment/Office: 6, Additional Directions: Entrance number #2",Cash
+2023-10-06 17:51:18.589638+00:00,18:36,khaked,FOOD,99205454,5096,0.00,"Block: Block 8, Street: Street 189 House Name/No: 437
+
+ 
+, Mubarak Al-kabir, Abu Ftaira
+
+Address Type: Villa House
++96599205454",Paid
+2023-10-06 18:46:46.244781+00:00,19:19,A,FOOD,55308835,5097,0.00,"Block: قطعة 4, Street: 3 Street House Name/No: 72
+
+ 
+, Kuwait City (Capital), Doha
+
+Address Type: Villa House",Paid
+2023-10-07 11:37:07.015381+00:00,12:09,A,ICE CREAM,90001358,fhfd,0.00,"Rabia, Block ٢, Street 2, House العمريه قطعه 2 شارع 2 منزل 12",Paid
+2023-10-07 11:48:01.565435+00:00,12:39,alia,FOOD,97156068,5099,0.00,"Block: 5, Street: Street 220 Building Name/No: 297-PICI no 95306415
+
+ 
+, Mubarak Al-kabir, Abu Ftaira
+
+Floor: 3,
+Apt.: 3
+Address Type: Building, Judda: non, Apartment/Office: 3, Additional Directions: White House window frames brown house location in the corner next to it electronicall station
++96597156068",Paid
+2023-10-07 16:51:36.531210+00:00,17:39,Dalal AlLoughani,FOOD,96550050195,#5101,0.00,"Block: Block 5, Street: 528 Street House Name/No: 30
+
+ 
+, Farwaniya, Abdullah Al-Mubarak - West Jeleeb
+
+Address Type: Villa House",Paid
+2023-10-08 16:02:03.251077+00:00,17:01,Danah Waleed,FOOD,96597755898,#5102,0.00,"Block: Block 11, Street: Street 4 House Name/No: 98
+
+ 
+, Farwaniya, Andalous
+
+Address Type: Villa House",Paid
+2023-10-09 13:08:10.024720+00:00,13:47,hamoud,FOOD,94499789,5106,0.00,"Block: قطعة 5, Street: شارع سالم الدويلة / Salem Alduwailah Street House Name/No: منزل 27
+
+ 
+, Kuwait City (Capital), Dasma
+
+Address Type: Villa House",Paid
+2023-10-10 11:56:39.872887+00:00,12:53,A,ICE CREAM,99666582,5110,0.00,"Block: قطعة 4, Street: شارع 4 House Name/No: 11
+
+ 
+, Mubarak Al-kabir, Adan
+
+Address Type: Villa House
++96599666582",Paid
+2023-10-10 14:34:03.189585+00:00,16:00,mohammad,FOOD,69969606,5111,0.00,"Block: 1, Street: شارع7 Building Name/No: 9
+
+ 
+, Ahmadi, Fintas
+
+Floor: 8,
+Apt.: 15
+Address Type: Building, Apartment/Office: 15
++96569969606",Paid
+2023-10-10 14:37:33.967849+00:00,15:41,meshal,FOOD,97301110,5112,0.00,"Block 3, Street: 5 Street House Name/No: 1
+
+ 
+, Hawally, Mishrif
+
+Address Type: Villa House, Additional Directions: Back door 2nd floor flat 3
++96597301110",Paid
+2023-10-11 18:43:09.810274+00:00,20:03,50557675,FOOD,50557675,5114,0.00,"Block: Block 2, Street: Street 209 House Name/No: 20
+
+ 
+, Farwaniya, Abdullah Al-Mubarak - West Jeleeb
+
+Address Type: Villa House, Additional Directions: ارجو الاتصال عند الوصول",Paid
+2023-10-12 17:20:05.480129+00:00,18:12,Ramzi khslil,FOOD,92289470,#5116,7.00,"Block: Block 7, Street: Street 169 Building Name/No: 14
+
+ 
+, Mubarak Al-kabir, Abu Ftaira
+
+Floor: 2,
+Apt.: 1
+Address Type: Building, Judda: 14, Apartment/Office: 1",Cash
+2023-10-13 12:31:54.317877+00:00,13:24,NORMAL,FOOD,94474300,5119,0.00,"Block: Block 4, Street: 424 Street House Name/No: 18
+
+ 
+, Farwaniya, Ashbeliah
+
+Address Type: Villa House
++96594474300",Paid
+2023-10-13 19:36:28.351844+00:00,20:44,faisal,FOOD,98543030,5123,0.00,"Block: 4, Street: 23 House Name/No: 67
+
+ 
+, Mubarak Al-kabir, Al-Qurain
+
+Address Type: Villa House
++96598543030",Paid
+2023-10-13 20:27:35.111729+00:00,21:16,r,FOOD,97453064,5125,0.00,"Block: قطعة 2, Street: شارع 2 House Name/No: 61
+
+ 
+, Farwaniya, Rehab
+
+Address Type: Villa House",Paid
+2023-10-14 11:04:41.385837+00:00,11:56,hassan,FOOD,66763311,5127,0.00,"Block: Block 2, Street: 42 Street House Name/No: 22
+
+ 
+, Mubarak Al-kabir, Adan
+
+Address Type: Villa House",Paid
+2023-10-14 16:04:01.359630+00:00,16:54,Manahel Al-luhaib,ICE CREAM,99602086,5130,0.00,"Block: Block 7, Street: 1 House Name/No: ١
+
+ 
+, Farwaniya, Ferdous
+
+Address Type: Villa House, Judda: 6",Paid
+2023-10-14 16:22:45.486228+00:00,17:08,A,FOOD,98849979,5131,0.00,"lock: قطعة 6, Street: شارع 1 جادة 18 House Name/No: 44
+
+ 
+, Mubarak Al-kabir, Sabah Al-Salem
+
+Address Type: Villa House",Paid
+2023-10-15 12:40:05.089394+00:00,13:30,mohammad ashkannani,ICE CREAM,99529784,5133,0.00,"Block: 1, Street: Abdulaziz Hamad Al Saqer Street Building Name/No: المواش
+
+ 
+, Kuwait City (Capital), Mirqab
+
+Floor: 11,
+Apt.: 3
+Address Type: Building, Apartment/Office: 3",Paid
+2023-10-15 18:08:37.045550+00:00,18:48,esraa alqabandi,ICE CREAM,55526231,5134,0.00,"Block: قطعة 3, Street: Abdulmunim Riyadh Street Building Name/No: شركة الهاشمية
+
+ 
+, Kuwait City (Capital), Mirqab
+
+Floor: ٣,
+Apt.: ٠
+Address Type: Building, Judda: 0, Apartment/Office: ٠",Paid
+2023-10-19 18:46:48.045452+00:00,19:44,A,FOOD,66560101,5150,6.00,"Block: قطعة 3, Street: شارع 329 Building Name/No: 361
+
+ 
+, Ahmadi, Egaila
+
+Floor: الارضي,
+Apt.: الدور الأرضي
+Address Type: Building, Apartment/Office: الدور الأرضي
++96566560101",Cash
+2023-10-20 13:38:20.007329+00:00,14:37,OMSHAWAD,FOOD,50235777,5156,0.00,"Block: Block 1, Street: 32 Street House Name/No: 41
+
+ 
+, Mubarak Al-kabir, Al-Qusour
+
+Address Type: Villa House, Judda: 41",Paid
+2023-10-20 15:45:50.170594+00:00,16:25,AMEENAH,FOOD,66603392,5158,0.00,"Block: قطعة 9, Street: شارع 10 House Name/No: 35
+
+ 
+, Farwaniya, Andalous
+
+Address Type: Villa House, Additional Directions: خلف مستشفى الأمراض السارية الجديد
++96566603392",Paid
+2023-10-20 16:31:15.518262+00:00,17:30,may anzy,FOOD,65587334,5159,0.00,"Block: قطعة 9, Street: شارع 4 House Name/No: 3
+
+ 
+, Mubarak Al-kabir, Sabah Al-Salem
+
+Address Type: Villa House, Judda: 13",Paid
+2023-10-20 19:03:10.552472+00:00,19:31,mohamed,ICE CREAM,66883328,5160,0.00,"Block: Block 9, Street: Baghdad Street Building Name/No: Ewan Complex - Tower C
+
+ 
+, Hawally, Salmiya
+
+Floor: 8,
+Apt.: C8
+Address Type: Building, Apartment/Office: C8",Paid
+2023-10-20 19:50:14.348762+00:00,20:17,A,ICE CREAM,99453240,5161,9.00,"Block: Block 10, Street: 13 Street House Name/No: 5
+
+ 
+, Hawally, Bayan
+
+Address Type: Villa House, Judda: 13",Cash
+2023-10-21 16:52:28.537101+00:00,17:50,zahraa alfardan,ICE CREAM,65791625,5170,0.00,"Block: قطعة 2, Street: 150 Building Name/No: 605
+
+ 
+, Mubarak Al-kabir, Abu Ftaira
+
+Floor: G,
+Apt.: 5
+Address Type: Building, Apartment/Office: 5",Paid
+2023-10-22 14:26:23.476438+00:00,15:11,sara serrhat,FOOD,66222696,5171,0.00,"Block: Block 1, Street: 101 Street Building Name/No: 72
+
+ 
+, Hawally, Shuhada
+
+Floor: 2,
+Apt.: 72
+Address Type: Building, Apartment/Office: 72",Paid
+2023-10-22 15:03:14.752329+00:00,15:43,Gamal,FOOD,69069660,5172,0.00,"Block: Block 6, Street: 10 Street Building Name/No: 252
+
+ 
+, Farwaniya, Farwaniya
+
+Floor: 4,
+Apt.: 15
+Address Type: Building, Apartment/Office: 15",Paid
+2023-10-22 15:21:22.284018+00:00,16:11,FAHAD,FOOD,56682182,5173,0.00,"Block: قطعة 5, Street: شارع 21 House Name/No: 13.
+
+ 
+, Mubarak Al-kabir, Mubarak Al-Kabir
+
+Address Type: Villa House",Paid
+2023-10-22 16:08:01.292255+00:00,17:07,MAHA,FOOD,99846839,5174,0.00,"lock: قطعة 6, Street: Street 182 Building Name/No: 183
+
+ 
+, Mubarak Al-kabir, Abu Ftaira
+
+Floor: 183,
+Apt.: 183",Paid
+2023-10-22 16:37:02.179518+00:00,17:32,Manahel Al-luhaib,ICE CREAM,99602086,#5176,0.00,"Block: Block 7, Street: 1 House Name/No: ١
+
+ 
+, Farwaniya, Ferdous
+
+Address Type: Villa House, Judda: 6",Paid
+2023-10-22 16:44:05.407791+00:00,17:37,shemz,FOOD,55083410,5177,0.00,"Block: Block 2, Street: 204 Building Name/No: 24
+
+ 
+, Mubarak Al-kabir, Sabah Al-Salem
+
+Floor: 2,
+Apt.: 4
+Address Type: Building, Apartment/Office: 4, Additional Directions: Same building as Domino’s Pizza",Paid
+2023-10-23 12:25:15.987640+00:00,12:59,om ali ibraheem,FOOD,99211359,WDHQ-46UE,0.00,"Jabriya, Block 11, Street 6, House 2",Paid
+2023-10-23 13:26:41.267045+00:00,14:03,dana,FOOD,99190044,5180,0.00,"Block: Block 6, Street: 5 House Name/No: 7
+
+ 
+, Mubarak Al-kabir, Adan
+
+Address Type: Villa House
++96599190044",Paid
+2023-10-23 13:48:50.360871+00:00,14:24,safiya,FOOD,97484217,5181,0.00,"Block: Block 3, Street: Bin Misbah Street Office Name/No: Dasman diabetes institute
+
+ 
+, Kuwait City (Capital), Sharq
+
+Floor: 2,
+Apt.: 219
+Address Type: Office, Apartment/Office: 219, Additional Directions: call once you reach the second floor",Paid
+2023-10-23 15:19:20.829250+00:00,16:10,dana,FOOD,96694553,5182,0.00,"Block: Block 2, Street: 55 Street House Name/No: 21
+
+ 
+, Mubarak Al-kabir, Adan
+
+Address Type: Villa House
++96596694553",Paid
+2023-10-23 18:33:01.213632+00:00,19:10,gamal,FOOD,69069660,d6wx,0.00,"Al Farwaniya, Block 6, Street St 12, Building St 12, Floor 4, Apartment 252",Paid
+2023-10-24 14:30:08.244437+00:00,19:01,فجر الحسيني,FOOD,65818806,5185,0.00,"Block: Block 6, Street: 1 St 10 Lane House Name/No: 14
+
+ 
+, Farwaniya, Ferdous
+
+Address Type: Villa House, Judda: 10",Paid
+2023-10-24 15:42:06.774903+00:00,16:15,سعد قلم,FOOD,98996885,5187,0.00,"Block: Block 9, Street: Sayeed Yaseen Al Tabtabaie Street Building Name/No: عماره الفردوس 33
+
+ 
+, Hawally, Salmiya
+
+Floor: ٣,
+Apt.: ٢١
+Address Type: Building, Apartment/Office: ٢١, Additional Directions: مقابل مسجد التركيت يوجد بنفس العمارةصالون هلا بلس و الدمشقي للحوم",Paid
+2023-10-24 16:02:08.736630+00:00,16:58,IBRAHIM ALHOUQAL,FOOD,96666224,#5188,0.00,"Block: 11, Street: 66 Street House Name/No: 109 B
+
+ 
+, Mubarak Al-kabir, Abu HASANIYA
+
+Address Type: Villa House, Additional Directions: Its in abu alhusaniya not abu ftaira",Paid
+2023-10-25 16:08:33.526692+00:00,19:02,Hasan Fayrouz,FOOD,99503727,#RPTY-DXHE,0.00,"Mubarak Al-Kabeer, Block 6, Street 10, House 48",Paid
+2023-10-25 16:09:48.470833+00:00,16:55,SHEREEFA ALHASSAN,FOOD,90088694,#5193,0.00,"Block: قطعة 2, Street: شارع 24 Building Name/No: -
+
+ 
+, Farwaniya, Rehab
+
+Floor: -,
+Apt.: منزل 41
+Address Type: Building, Apartment/Office: منزل 41",Paid
+2023-10-26 11:14:54.238854+00:00,12:02,A,FOOD,99211359,DX2H,0.00,"Jabriya, Block 11, Street 6, House 2",Paid
+2023-10-26 12:55:22.900034+00:00,13:40,ali,ICE CREAM,99567764,5196,4.00,"Block: قطعة 7, Street: جادة 8 House Name/No: 3
+
+ 
+, Hawally, Bayan
+
+Address Type: Villa House, Judda: 8
++96599567764",Cash
+2023-10-26 14:03:27.672180+00:00,14:59,hallal,FOOD,99455369,5197,6.00,"Block: ١٣, Street: الشارع 1 جادة 6 House Name/No: عيد سند
+
+ 
+, Mubarak Al-kabir, Sabah Al-Salem
+
+Address Type: Villa House, Judda: ٦
++96599455369",Cash
+2023-10-27 10:43:12.069568+00:00,11:19,A,FOOD,66148282,2d79,0.00,"Abdullah Al-Mubarak - West Jeleeb, Block 9, Street شارع 912, Building شارع 912, House 68",Paid
+2023-10-27 14:17:57.417964+00:00,15:06,jarrah,FOOD,60090357,5200,0.00,"Block: Block 4, Street: 245 Building Name/No: 119
+
+ 
+, Mubarak Al-kabir, Abu Ftaira
+
+Floor: ارضي,
+Apt.: 2
+Address Type: Building, Apartment/Office: 2
++96560090357",Paid
+2023-10-27 14:37:52.013606+00:00,15:44,A,FOOD,96971113,#UYPD-4W4H,4.00,"Hawally, Block 4, Street شارع 126, Building ٧٢٨, Floor ١, Apartment ٢
+
+Note:
+
+بقالة اسطنبول",Cash
+2023-10-27 14:44:58.647536+00:00,15:45,Z,FOOD,69934355,5202,4650.00,"Block: Block 2, Street: 20 Street House Name/No: 44
+
+ 
+, Hawally, Rumaithiya
+
+Address Type: Villa House, Judda: 20",Cash
+2023-10-27 20:06:30.750102+00:00,20:43,ALI AL MAZEEDI,FOOD,66539070,#5205,4.00,"Block: Block 3, Street: 309 Street House Name/No: 7
+
+ 
+, Farwaniya, Abdullah Al-Mubarak - West Jeleeb
+
+Address Type: Villa House, Additional Directions: الاتصال عند الوصول Call when you arrive",Paid
+2023-10-28 14:10:36.780287+00:00,15:05,IBRAHIM,FOOD,96666224,5209,0.00,"Block: 11, Street: 66 Street House Name/No: 109 B
+
+ 
+, Mubarak Al-kabir, Abu Ftaira
+
+Address Type: Villa House, Additional Directions: Its in abu alhusaniya not abu ftaira
++96596666224",Paid
+2023-10-28 17:56:31.823136+00:00,18:39,A,FOOD,99188825,5211,0.00,"Block: Block 8, Street: 810 Street House Name/No: 14
+
+ 
+, Farwaniya, Abdullah Al-Mubarak - West Jeleeb
+
+Address Type: Villa House",Paid
+2023-10-29 18:06:51.856452+00:00,18:49,nourah,FOOD,56500323,#67GG-FRW9,0.00,"Abdullah Al-Mubarak - West Jeleeb, Block 8, Street 818, Building قطعة 8, House 56",Paid
+2023-10-29 19:18:59.838898+00:00,19:50,sayed alzalzala,FOOD,66068676,5215,0.00,"Block: Block 6, Street: 5 Street Building Name/No: 27 , side door on the right
+
+ 
+, Hawally, Mishrif
+
+Floor: 2,
+Apt.: 2
+Address Type: Building, Apartment/Office: 2, Additional Directions: فرع 6-1",Paid
+2023-10-31 16:04:41.677694+00:00,16:46,A,FOOD,97630609,Ha6q,0.00,"bayan, Block 11, Street 1, Avenue 5, House 35",Paid
+2023-10-31 16:12:42.497014+00:00,18:09,viviana,FOOD,65556027,5224,0.00,"Block: Block 5, Street: 507 Street Building Name/No: house 51
+
+ 
+, Mubarak Al-kabir, Fnaitess
+
+Floor: floor 1,
+Apt.: flat 6
+Address Type: Building, Apartment/Office: flat 6
++96565556027",Paid
+2023-11-01 10:00:56.617785+00:00,11:15,A,ICE CREAM,99397665,5227,0.00,"Block: 3, Street: 27 House Name/No: 32
+
+ 
+, Hawally, Salmiya
+
+Address Type: Villa House",Paid
+2023-11-01 14:10:05.067952+00:00,15:03,MOHAMMED,FOOD,99496435,XFDT,0.00,"Hawally, Block 2, Street St 61, Building Parcel 19623, Floor 4, Apartment 8
+
+Note:
+
+call dont knock",Paid
+2023-11-01 14:35:47.693550+00:00,15:14,sarah,ICE CREAM,50746466,5230,0.00,"Block: Block 8, Street: 5 Street Building Name/No: 42
+
+ 
+, Hawally, Salwa
+
+Floor: 2,
+Apt.: 2
+Address Type: Building, Apartment/Office: 2
++96550746466",Paid
+2023-11-01 17:52:39.849847+00:00,18:31,mj,FOOD,60999133,5233,0.00,"Block: Block 5, Street: 1 St. 25 Lane House Name/No: 13
+
+ 
+, Mubarak Al-kabir, Sabah Al-Salem
+
+Address Type: Villa House, Judda: 25
++96560999133",Paid
+2023-11-01 18:16:46.057987+00:00,18:55,rawan,FOOD,99976747,5234,7.00,"Block: قطعة 6, Street: شارع 1 جادة 18 House Name/No: 44
+
+ 
+, Hawally, Salmiya
+
+Address Type: Villa House, Judda: 18
++96599976747",Cash
+2023-11-01 19:04:19.249506+00:00,19:46,Moataz,FOOD,51656763,5237,0.00,"Block: قطعة 9, Street: شارع بغداد جادة 15 Building Name/No: Leen complex(Block B)
+
+ 
+, Hawally, Salmiya
+
+Floor: 16,
+Apt.: 17
+Address Type: Building, Apartment/Office: 17
++96551656763",Paid
+2023-11-02 13:29:44.063947+00:00,14:22,zeyad,FOOD,97267934,5238,5.00,"Block: Block 1, Street: Street 118، Building Name/No: 182
+
+ 
+, Mubarak Al-kabir, Sabah Al-Salem
+
+Floor: 5,
+Apt.: 17
+Address Type: Building, Apartment/Office: 17
++96597267934",Cash
+2023-11-02 14:26:48.882934+00:00,15:21,afnan,ICE CREAM,51711751,hxfe,11.00,"+96551711751
+
+Abu Ftaira, Block 3, Street St 230, Building St 231, House 157
+
+Note:
+
+Floor 1 apartment 7",Cash
+2023-11-02 15:48:18.238649+00:00,16:31,حسن فيروز,ICE CREAM,99996592,5240,0.00,"Block: قطعه 2, Street: شارع 9 House Name/No: ٩
+
+ 
+, Mubarak Al-kabir, Adan
+
+Address Type: Villa House",Paid
+2023-11-02 16:33:08.614402+00:00,17:22,nadsa,FOOD,60460407,5241,0.00,"Block: قطعة 1, Street: شارع 20 House Name/No: 24
+
+ 
+, Farwaniya, Rehab
+
+Address Type: Villa House
++96560460407",Paid
+2023-11-03 11:52:15.488084+00:00,12:33,55500316,FOOD,55500316,5246,0.00,"Block: Block 2, Street: Streer 212 House Name/No: 233
+
+ 
+, Kuwait City (Capital), Ghornata
+
+Address Type: Villa House
++96555500316",Paid
+2023-11-03 14:12:01.842580+00:00,15:01,HM,FOOD,94499789,5247,0.00,"Block: قطعة 5, Street: شارع سالم الدويلة / Salem Alduwailah Street House Name/No: منزل 27
+
+ 
+, Kuwait City (Capital), Dasma
+
+Address Type: Villa House",Paid
+2023-11-03 14:55:22.892046+00:00,15:42,shaimaa,FOOD,66135151,5249,0.00,"Block: قطعة 4, Street: 19 Building Name/No: 4
+
+ 
+, Mubarak Al-kabir, Al-Qurain
+
+Floor: 1,
+Apt.: 3
+Address Type: Building, Apartment/Office: 3, Additional Directions: main street door 4A
++96566135151",Paid
+2023-11-04 14:43:18.396871+00:00,15:55,ahmed shaker,ICE CREAM,69690965,5255,0.00,"Block: Block 1, Street: شارع 38 House Name/No: 16
+
+ 
+, Mubarak Al-kabir, Al-Qurain
+
+Address Type: Villa House",Paid
+2023-11-04 15:15:35.600059+00:00,15:56,ali,FOOD,94496366,5256,0.00,"Block: قطعه 7, Street: شارع 9 House Name/No: 4
+
+ 
+, Mubarak Al-kabir, Al-Qusour
+
+Address Type: Villa House
++96594496366",Paid
+2023-11-04 15:46:39.676562+00:00,16:24,NOOR,FOOD,97876229,5257,0.00,"Block: 4, Street: 119 Building Name/No: 1
+
+ 
+, Farwaniya, Farwaniya
+
+Floor: 10,
+Apt.: 53
+Address Type: Building, Apartment/Office: 53
++96597876229",Paid
+2023-11-05 13:49:26.826972+00:00,14:42,HADEEL ALMATAR,FOOD,90003913,5260,0.00,"lock: Block 3, Street: Bin misbah Building Name/No: Al Nada
+
+ 
+, Kuwait City (Capital), Sharq
+
+Floor: 2,
+Apt.: 203
+Address Type: Building, Apartment/Office: 203, Additional Directions: Building in front of Dasman school gate no 3 Don’t call deliver to the apartment no calls will be answered",Paid
+2023-11-05 14:30:43.552129+00:00,15:32,nohammed,FOOD,99496435,#PDG7-6GFF,0.00,"Hawally, Block 2, Street St 61, Building Parcel 19623, Floor 4, Apartment 8",Paid
+2023-11-07 16:23:36.369741+00:00,17:11,Aisha ALm,FOOD,99812148,5266,0.00,"block: 1, Street: 109 Building Name/No: 265
+
+ 
+, Mubarak Al-kabir, Fnaitess
+
+Floor: 2,
+Apt.: 7
+Address Type: Building, Apartment/Office: 7, Additional Directions: Marafie Compound",Paid
+2023-11-09 09:12:11.598259+00:00,10:34,Dana Al Issa,FOOD,65811981,5274,5.00,"Block: قطعة 14, Street: فهد السالم Office Name/No: مجمع الوطيه
+
+ 
+, Kuwait City (Capital), Qibla
+
+Company:3
+
+Floor: 6,
+Apt.: 19
+Address Type: Office, Apartment/Office: 19, Additional Directions: الرجاء الاتصال عند الوصول",Cash
+2023-11-09 11:33:13.777622+00:00,12:26,Mohamed Allogahny,FOOD,99092999,5275,0.00,"Block: Block 12, Street: 6 Street House Name/No: 13
+
+ 
+, Farwaniya, Andalous
+
+Address Type: Villa House",Paid
+2023-11-09 14:26:51.520180+00:00,15:15,aziz,FOOD,99756710,5277,0.00,"Block: قطعة 7, Street: جادة 8 Building Name/No: house3
+
+ 
+, Hawally, Bayan
+
+Floor: 0,
+Apt.: 0
+Address Type: Building, Judda: bayan block7 street1 jada8 , Apartment/Office: 0
++96599756710",Cash
+2023-11-10 11:43:46.035862+00:00,12:27,hussain,FOOD,69903223,yhhx,0.00,"Ishbiliya, Block 4, Street St 432, House 14 - Parcel 382",Paid
+2023-11-11 12:00:45.056481+00:00,12:44,alshima,FOOD,99839193,5297,0.00,"Block: قطعة 4, Street: شارع 114 House Name/No: 19
+
+ 
+, Kuwait City (Capital), Sulaibikhat
+
+Address Type: Villa House, Judda: جاده 2, Additional Directions: المنزل من جهة البحر
++96599839193",Paid
+2023-11-11 17:11:14.123444+00:00,18:38,A,FOOD,99995114,h74e,0.00,"96599995114
+
+North West Al-Sulaibikhat, Block 1, Street شارع 120, Building شارع 120, House شقة ٢ الدور الثاني٢٣١
+
+Note:
+
+الدور الثاني",Paid
+2023-11-13 16:02:15.388186+00:00,16:52,am k,FOOD,66773117,5306,0.00,"Block: Block 5, Street: Street 9 House Name/No: 22
+
+ 
+, Mubarak Al-kabir, Mubarak Al-Kabir
+
+Address Type: Villa House
++96566773117",Paid
+2023-11-13 19:18:34.077429+00:00,20:03,faisal,FOOD,97700737,5309,0.00,"Block: Block 1, Street: 3 Street House Name/No: 41
+
+ 
+, Farwaniya, Omariya
+
+Address Type: Villa House, Additional Directions: Don’t hit the bell! call the phone
++96597700737",Paid
+2023-11-14 14:04:39.665972+00:00,15:07,kawtha alattar,FOOD,90979409,#673Q-H9FH,0.00,"Rumaithiya, Block 9, Street شارع 97, House 22 - قسيمة 228",Paid
+2023-11-15 15:33:45.100769+00:00,16:28,ghadeer,FOOD,97725796,5318,0.00,"Block: قطعة 8, Street: شارع 22 House Name/No: ٢١
+
+ 
+, Mubarak Al-kabir, Mubarak Al-Kabir
+
+Address Type: Villa House
++96597725796",Paid
+2023-11-16 12:13:53.534094+00:00,13:26,سارة مبارك,FOOD,66560101,5323,7.00,"Block: قطعة 3, Street: شارع 329 Building Name/No: 361
+
+ 
+, Ahmadi, Egaila
+
+Floor: الارضي,
+Apt.: الدور الأرضي
+Address Type: Building, Apartment/Office: الدور الأرضي
++96566560101",Cash
+2023-11-16 15:34:41.733632+00:00,16:31,شوق الرشيدي,FOOD,50956828,5325,0.00,"Block: قطعة 6, Street: شارع 2 House Name/No: 5
+
+ 
+, Farwaniya, Ardhiya
+
+Address Type: Villa House, Judda: 5, Additional Directions: الرجاااء التوصييل بأسرعع وقتت",Paid
+2023-11-16 17:17:53.716222+00:00,17:54,محرز ابو شربك,FOOD,55650933,5327,0.00,"Block: Block 2, Street: Abdulrahman Al-Ghafiqi Street Building Name/No: 384
+
+ 
+, Hawally, Salwa
+
+Floor: 2,
+Apt.: 18
+Address Type: Building, Apartment/Office: 18",Paid
+2023-11-17 11:49:16.693449+00:00,12:40,SARA,FOOD,41140207,5336,0.00,"Block: Block 12, Street: 3 Building Name/No: 20
+
+ 
+, Hawally, Salmiya
+
+Floor: 4,
+Apt.: 8
+Address Type: Building, Judda: 7, Apartment/Office: 8, Additional Directions: same building indian restaurant kunjikass
++96541140207",Paid
+2023-11-17 12:02:13.405961+00:00,12:45,مشاعل سالمين,FOOD,50722609,5337,0.00,"Block: قطعة 1, Street: شارع 14 House Name/No: ٢٦
+
+ 
+, Farwaniya, Rehab
+
+Address Type: Villa House
++96550722609",Paid
+2023-11-17 12:21:08.538618+00:00,13:05,eman,FOOD,55536369,6r2f,0.00,"Jaber Al Ahmad, Block 2, Street St 208, House 30 - Parcel 536",Paid
+2023-11-17 12:30:56.543517+00:00,13:28,gzlan,FOOD,97897749,5338,7.00,"Block: قطعه5, Street: شارع 1 House Name/No: 62
+
+ 
+, Ahmadi, Dhaher
+
+Address Type: Villa House",Cash
+2023-11-17 13:39:13.702809+00:00,14:43,sarah,FOOD,55626661,5339,0.00,"Block: قطعة 3, Street: 223Street Building Name/No: 433
+
+ 
+, Mubarak Al-kabir, Abu Ftaira
+
+Floor: 3,
+Apt.: 3
+Address Type: Building, Apartment/Office: 3
++96555626661",Paid
+2023-11-17 14:33:38.323135+00:00,15:14,ahmed,ICE CREAM,95535937,5340,0.00,"Block: Block 11, Street: Ali Thunayan Al-Athena Street Building Name/No: 69
+
+ 
+, Hawally, Salwa
+
+Floor: Basement ,
+Apt.: 1
+Address Type: Building, Apartment/Office: 1
++96595535937",Paid
+2023-11-17 18:50:57.822400+00:00,19:23,shaimaa,ICE CREAM,94999043,5341,0.00,"Block: Block 1, Street: 108 House Name/No: 47
+
+ 
+, Mubarak Al-kabir, Fnaitess
+
+Address Type: Villa House",Paid
+2023-11-18 10:23:50.172447+00:00,11:09,Zahraa altababae,FOOD,99368129,5350,0.00,"lock: Block 2, Street: 37 Street House Name/No: 12
+
+ 
+, Mubarak Al-kabir, Adan
+
+Address Type: Villa House",Paid
+2023-11-18 11:57:08.513073+00:00,12:31,osama,FOOD,99555384,5351,0.00,"Block: Block 10, Street: street one House Name/No: house 9
+
+ 
+, Hawally, Bayan
+
+Address Type: Villa House, Judda: jaddah 13
++96599555384",Paid
+2023-11-18 12:22:56.866682+00:00,13:12,meshal,FOOD,90970307,5352,5.00,"Block: قطعة 5, Street: شارع 18 House Name/No: 8
+
+ 
+, Mubarak Al-kabir, Al-Qurain
+
+Address Type: Villa House
++96590970307",Cash
+2023-11-18 16:37:51.766323+00:00,17:22,ahmad,FOOD,900006969,5353,0.00,"Block: قطعه 5, Street: شارع 504 Building Name/No: 53
+
+ 
+, Mubarak Al-kabir, Fnaitess
+
+Floor: 8,
+Apt.: 8
+Address Type: Building, Apartment/Office: 8",Paid
+2023-11-19 13:15:53.598044+00:00,14:33,shaika,FOOD,99643717,5354,0.00,"Block: Block 2, Street: 6 Street House Name/No: 9
+
+ 
+, Mubarak Al-kabir, Al-Qusour
+
+Address Type: Villa House",Paid
+2023-11-19 17:46:17.648370+00:00,18:30,nourah,ICE CREAM,90085860,5358,5.00,"Block: قطعة 5, Street: شارع 18 House Name/No: ٨
+
+ 
+, Mubarak Al-kabir, Al-Qurain
+
+Address Type: Villa House",Cash
+2023-11-20 16:24:52.085535+00:00,17:19,jaafar,FOOD,98544455,5360,0.00,Sulaibikhat block 4. street 114.House 236.apartment 4.ground floor,Paid
+2023-11-21 16:45:34.662924+00:00,17:57,shaikah,FOOD,50467636,47XW,0.00,"Al-Qusour, Block 2, Street St 17, House 31",Paid
+2023-11-21 17:00:11.623305+00:00,17:57,hashem ashnani,FOOD,55003477,5366,0.00,al qurain mubarak al-kabir block 3 street 4 house number 53,Cash
+2023-11-23 15:32:51.773857+00:00,16:34,د.مشاري العقيل,ICE CREAM,55653616,5377,0.00,"Block: 5, Street: شارع 11 Building Name/No: القصور منزل ٧
+
+ 
+, Mubarak Al-kabir, Al-Qusour
+
+Floor: 00,
+Apt.: 00
+Address Type: Building, Apartment/Office: 00, Additional Directions: القصور ق٥ ش١١ م٧
++96555653616",Paid
+2023-11-24 11:44:16.222362+00:00,12:38,A,FOOD,50479164,5380,0.00,"Block: Block 5, Street: Street 525 Building Name/No: 10
+
+ 
+, Farwaniya, Abdullah Al-Mubarak - West Jeleeb
+
+Floor: 2,
+Apt.: no",Paid
+2023-11-24 11:59:46.894767+00:00,12:58,fiasal,FOOD,99061209,5381,0.00,"Block: قطعة 9, Street: شارع 902 Building Name/No: 33
+
+ 
+, Farwaniya, Abdullah Al-Mubarak - West Jeleeb
+
+Floor: 2,
+Apt.: 3",Paid
+2023-11-24 13:20:12.924703+00:00,13:45,mohammad,FOOD,99496435,u6uf,0.00,"Hawally, Block 2, Street St 61, Building Parcel 19623, Floor 4, Apartment 8
+
+Note:
+
+call dont knock",Paid
+2023-11-24 14:41:19.629564+00:00,15:38,F A,FOOD,55211076,5382,0.00,"Block: قطعة 4, Street: 114 House Name/No: 16
+
+ 
+, Kuwait City (Capital), Sulaibikhat
+
+Address Type: Villa House, Judda: 4
++96555211076",Paid
+2023-11-24 14:49:03.493808+00:00,15:37,DINA,FOOD,94408808,5383,0.00,"Block: Block 4, Street: 7 Street House Name/No: 9
+
+ 
+, Mubarak Al-kabir, Al-Qurain
+
+Address Type: Villa House",Paid
+2023-11-24 16:23:21.062813+00:00,17:12,NAYEF,ICE CREAM,51024885,1100,0.00,"Salmiya , block 12 , Abu Huraira Street , Building number 12 , 6th floor , apartment 21",Paid
+2023-11-25 17:40:55.252897+00:00,18:33,fatema,FOOD,94447792,5396,0.00,"Block: -قطعة5-, Street: -شارع 510- House Name/No: -منزل 20-
+
+ 
+, Hawally, Shuhada
+
+Address Type: Villa House, Additional Directions: -الرجاء الاتصال عند الوصول و عدم طرق الجرس94447792-please call when you arraive dont ring the bill 94447792-
++96594447792",Paid
+2023-11-25 17:50:16.824207+00:00,18:26,luke williams,FOOD,66198495,5397,0.00,"Block: Block 10, Street: Al Dhahak Street Building Name/No: Building 1
+
+ 
+, Hawally, Salmiya
+
+Floor: Floor 7,
+Apt.: Apartment 2
+Address Type: Building, Apartment/Office: Apartment 2, Additional Directions: Same building as copy centre",Paid
+2023-11-26 17:38:10.746177+00:00,18:49,Reem alloughani,FOOD,50553070,5398,0.00,"Block: قطعة 8, Street: شارع 804 House Name/No: 5
+
+ 
+, Farwaniya, Abdullah Al-Mubarak - West Jeleeb
+
+Address Type: Villa House",Paid
+2023-11-28 13:25:19.713650+00:00,14:13,bader,FOOD,50266620,5408,0.00,"Block: 3, Street: 328 House Name/No: 19
+
+ 
+, Ahmadi, Egaila
+
+Address Type: Villa House
++96550266620",Paid
+2023-11-28 15:51:28.733549+00:00,16:49,داود الكندري,FOOD,99363559,6yxt,0.00,"Al-Ahmadi, Block 7, Street جنوبي 3, Southahmadi, House 12",Paid
+2023-11-29 16:51:33.228599+00:00,17:40,عبدالله العتيبي,FOOD,50250626,5415,0.00,"Block: قطعة 5, Street: شارع 2 House Name/No: 26
+
+ 
+, Ahmadi, Dhaher
+
+Address Type: Villa House",Paid
+2023-12-01 12:04:31.703008+00:00,12:59,ahmed,ICE CREAM,95535937,5425,0.00,"Block: Block 11, Street: Ali Thunayan Al-Athena Street Building Name/No: 69
+
+ 
+, Hawally, Salwa
+
+Floor: Basement ,
+Apt.: 1
+Address Type: Building, Apartment/Office: 1",Paid
+2023-12-01 12:10:11.977023+00:00,13:21,rita,FOOD,60409155,5426,0.00,"Block: Block 3, Street: 7 Street Building Name/No: 4
+
+ 
+, Hawally, Salwa
+
+Floor: ground,
+Apt.: 3
+Address Type: Building, Apartment/Office: 3",Paid
+2023-12-01 12:52:15.192316+00:00,13:42,jori,ICE CREAM,99801789,5427,0.00,"Block: 4, Street: 12 Street House Name/No: 5
+
+ 
+, Mubarak Al-kabir, Al-Qusour
+
+Address Type: Villa House, Judda: no
++96599801789",Paid
+2023-12-01 16:28:42.980536+00:00,18:33,fatima,FOOD,98841990,py3w,0.00,"+96598841990
+
+Daiya, Block 4, Street Ibn Seena St, House 15",Paid
+2023-12-03 13:52:14.097974+00:00,14:51,unknown,FOOD,94741370,5437,0.00,"Block: قطعة 1, Street: شارع 26،، Building Name/No: 55
+
+ 
+, Mubarak Al-kabir, Al-Qurain
+
+Floor: 2,
+Apt.: 2
+Address Type: Building, Apartment/Office: 2",Paid
+2023-12-05 12:57:17.937482+00:00,13:46,A,FOOD,97677521,#5447,0.00,"Block: 1, Street: 40 House Name/No: 11
+
+ 
+, Mubarak Al-kabir, Al-Qurain
+
+Address Type: Villa House",Paid
+2023-12-05 13:05:19.195599+00:00,13:46,unknown,ICE CREAM,94741370,5448,0.00,"Block: قطعة 1, Street: شارع 26،، Building Name/No: 55
+
+ 
+, Mubarak Al-kabir, Al-Qurain
+
+Floor: 2,
+Apt.: 2
+Address Type: Building, Apartment/Office: 2",Paid
+2023-12-07 16:55:29.343555+00:00,17:45,rashed,FOOD,52226622,5456,0.00,"Block: قطعه 4, Street: شارع 17 Building Name/No: 13
+
+ 
+, Mubarak Al-kabir, Adan
+
+Floor: /,
+Apt.: /
+Address Type: Building, Apartment/Office: /
++96552226622",Paid
+2023-12-09 13:46:22.090216+00:00,14:46,Ap,FOOD,94441290,5477,6.00,"Block: قطعة 6, Street: شارع 5 Building Name/No: ارجو الاتصال
+
+ 
+, Hawally, Mishrif
+
+Floor: 2,
+Apt.: 2
+Address Type: Building, Apartment/Office: 2, Additional Directions: فرع 6-1",Cash
+2023-12-14 10:24:21.963957+00:00,11:08,waleed,FOOD,99821107,5501,0.00,"Block: قطعة 7, Street: شارع 1 House Name/No: 34
+
+ 
+, Farwaniya, Ferdous
+
+Address Type: Villa House, Judda: جادة١٢
++96599821107",Paid
+2023-12-14 13:59:23.770104+00:00,14:53,ABDULLAH,FOOD,67703040,5503,0.00,"Block: Block 4, Street: 403 Street Building Name/No: house 70
+
+ 
+, Farwaniya, Ashbeliah
+
+Floor: floor 2 ,
+Apt.: apartmet 3
+Address Type: Building, Apartment/Office: apartmet 3",Paid
+2023-12-14 14:03:50.706507+00:00,15:09,fatma,FOOD,98898809,5504,0.00,"Block: Block 1, Street: 3 Street House Name/No: 27
+
+ 
+, Farwaniya, Ardhiya
+
+Address Type: Villa House",Paid
+2023-12-15 13:26:43.059101+00:00,14:16,A,FOOD,99672385,5513,0.00,"Block: 9, Street: شارع 4 جادة 3 House Name/No: صباح السالم ق٩ ش٤ج٣منزل ٣١
+
+ 
+, Mubarak Al-kabir, Sabah Al-Salem
+
+Address Type: Villa House, Judda: ٣, Additional Directions: منزل ٣١",Paid
+2023-12-20 13:59:13.429687+00:00,14:43,Sara DAWLEH,FOOD,55441313,#5551,0.00,"Block: Block 7, Street: 705 Street Building Name/No: 147
+
+ 
+, Mubarak Al-kabir, Fnaitess
+
+Floor: 3,
+Apt.: 4
+Address Type: Building, Apartment/Office: 4",Paid
+2023-12-21 12:53:52.655554+00:00,14:02,haidar,FOOD,90095966,5558,0.00,"Block: Block 9, Street: Osama Bin Zeid Street House Name/No: 1 A
+
+ 
+, Hawally, Rumaithiya",Paid
+2023-12-21 12:54:42.831404+00:00,14:03,mohammad,FOOD,51658805,5559,0.00,"Block: قطعة 1, Street: شارع 8 House Name/No: ٣٠
+
+ 
+, Hawally, Mishrif
+
+Address Type: Villa House",Paid
+2023-12-21 15:36:33.702628+00:00,16:26,shaimaa,FOOD,66135151,5562,0.00,"Block: قطعة 4, Street: 19 Building Name/No: 4
+
+ 
+, Mubarak Al-kabir, Al-Qurain
+
+Floor: 1,
+Apt.: 3
+Address Type: Building, Apartment/Office: 3, Additional Directions: main street door 4A
++96566135151",Paid
+2023-12-21 17:01:04.394610+00:00,18:01,afran,FOOD,66337006,5563,0.00,"Block: قطعة 6, Street: شارع 623 Building Name/No: 20
+
+ 
+, Farwaniya, Abdullah Al-Mubarak - West Jeleeb
+
+Floor: 2,
+Apt.: 1
+Address Type: Building, Apartment/Office: 1
++96566337006",Paid
+2023-12-21 18:01:24.598555+00:00,18:50,hm,FOOD,94499789,5564,6.00,"Block: قطعة 5, Street: شارع سالم الدويلة / Salem Alduwailah Street House Name/No: منزل 27
+
+ 
+, Kuwait City (Capital), Dasma
+
+Address Type: Villa House",Cash
+2023-12-22 18:55:17.712283+00:00,20:16,A,FOOD,55141888,5575,0.00,"Block: قطعة 6, Street: Street 601 Building Name/No: 18
+
+ 
+, Mubarak Al-kabir, Fnaitess
+
+Floor: 3,
+Apt.: 7
+Address Type: Building, Apartment/Office: 7",Paid
+2023-12-23 12:41:32.527129+00:00,13:26,ali,FOOD,97807272,T77Y-FT79,0.00,"Mubarak Al-Kabeer, Block 1, Street 18, House 3",Paid
+2023-12-23 17:43:02.190807+00:00,18:42,m,FOOD,97986669,5585,7.00,"Block: Block 3, Street: 4 St 1 Lane Building Name/No: منزل ١٥
+
+ 
+, Kuwait City (Capital), Doha
+
+Floor: جادة ١,
+Apt.: شارع ٤
+Address Type: Building, Apartment/Office: شارع ٤",Cash
+2023-12-26 17:02:47.241888+00:00,17:52,jasmine,FOOD,90016151,5595,0.00,"Block: Block 1, Street: 101 Street Building Name/No: 14
+
+ 
+, Hawally, Shuhada
+
+Floor: 2,
+Apt.: 1
+Address Type: Building, Apartment/Office: 1",Paid
+2023-12-26 17:50:52.894461+00:00,18:43,shad,FOOD,94443023,5596,6.00,"Block: قطعة٢, Street: ١٠٤ House Name/No: ٤٨
+
+ 
+, Kuwait City (Capital), Sulaibikhat
+
+Address Type: Villa House, Judda: ١1",Cash
+2023-12-27 11:49:31.977955+00:00,12:30,zahraa,FOOD,55833744,5598,0.00,"Block: Block 5, Street: 1 Street. 23 Lane House Name/No: 43
+
+ 
+, Mubarak Al-kabir, Sabah Al-Salem
+
+Address Type: Villa House
++96555833744",Paid
+2023-12-27 14:20:22.783933+00:00,15:12,alia,FOOD,97156068,5600,0.00,"Block: 5, Street: Street 220 Building Name/No: 297
+
+ 
+, Mubarak Al-kabir, Abu Ftaira
+
+Floor: 3,
+Apt.: 3
+Address Type: Building, Judda: 0, Apartment/Office: 3
++96597156068",Paid
+2023-12-28 17:52:48.915819+00:00,19:06,mubarak,FOOD,99099496,5606,0.00,"Block: قطعة 2, Street: شارع 215 Building Name/No: 12
+
+ 
+, Ahmadi, Egaila
+
+Floor: الارضي,
+Apt.: الارضي
+Address Type: Building, Apartment/Office: الارضي
++96599099496",Paid
+2023-12-29 11:47:35.443113+00:00,12:38,eric,FOOD,98992253,5612,0.00,"Block: Block 1, Street: Street 129 Building Name/No: 475
+
+ 
+, Mubarak Al-kabir, Sabah Al-Salem
+
+Floor: 8,
+Apt.: 23
+Address Type: Building, Apartment/Office: 23, Additional Directions: The building left of the barbershop.
++96598992253",Paid
+2023-12-29 14:12:29.681522+00:00,15:05,rita,FOOD,60409155,5614,0.00,"Block: Block 8, Street: 1 Street Building Name/No: 32
+
+ 
+, Hawally, Salwa
+
+Floor: 2,
+Apt.: 3
+Address Type: Building, Apartment/Office: 3
++96560409155",Paid
+2023-12-29 18:59:04.418815+00:00,19:57,shaimaa,FOOD,66135151,5616,0.00,"Block: قطعة 4, Street: 19 Building Name/No: 4
+
+ 
+, Mubarak Al-kabir, Al-Qurain
+
+Floor: 1,
+Apt.: 3
+Address Type: Building, Apartment/Office: 3, Additional Directions: main street door 4A
++96566135151",Paid
+2024-01-02 12:10:11.287939+00:00,12:54,LULWAL,ICE CREAM,94909909,#4FAW-RAA6,0.00,"Salam, Block 3, Street 322, House 15",Paid
+2024-01-02 18:21:55.164298+00:00,19:12,ABDULAH,FOOD,99581998,5646,0.00,"Block: 2, Street: 19 House Name/No: 21
+
+ 
+, Mubarak Al-kabir, Al-Qusour
+
+Address Type: Villa House, Judda: 0
++96599581998",Paid
+2024-01-03 15:39:54.876384+00:00,16:40,p,FOOD,96065166,5653,0.00,"Block: قطعة 7, Street: شارع 717 House Name/No: 9
+
+ 
+, Farwaniya, Abdullah Al-Mubarak - West Jeleeb
+
+Address Type: Villa House",Paid
+2024-01-03 16:16:41.223359+00:00,17:00,A,FOOD,50065727,5654,0.00,"Block: قطعة 6, Street: شارع 6 House Name/No: 13
+
+ 
+, Mubarak Al-kabir, Al-Qusour
+
+Address Type: Villa House, Additional Directions: رجاءاً عدم طرق الجرس
++96550065727",Paid
+2024-01-03 17:10:34.504002+00:00,17:59,shaimaa,ICE CREAM,99002283,5655,0.00,"Block: Block 3, Street: 2 Street House Name/No: 31
+
+ 
+, Mubarak Al-kabir, Mubarak Al-Kabir
+
+Address Type: Villa House",Paid
+2024-01-04 16:51:37.143163+00:00,17:41,51344961,reem,51344961,5660,0.00,"Block: 1, Street: شارع 6 House Name/No: ذهيبان
+
+ 
+, Mubarak Al-kabir, Al-Qusour
+
+Address Type: Villa House, Judda: منزل47
++96551344961",Paid
+2024-01-06 16:21:07.504391+00:00,17:14,MAHA ALJMI,FOOD,96665119,5682,0.00,"Block: قطعة 6, Street: شارع 2 House Name/No: 4
+
+ 
+, Ahmadi, Dhaher
+
+Address Type: Villa House",Paid
+2024-01-06 16:22:29.799113+00:00,17:38,RAWAN,FOOD,99976747,5683,7.00,"Block: قطعة 6, Street: شارع 1 جادة 18 House Name/No: 44
+
+ 
+, Mubarak Al-kabir, Sabah Al-Salem
+
+Address Type: Villa House, Judda: 18",Cash
+2024-01-06 17:13:49.939076+00:00,18:08,SARA,FOOD,55441313,5685,0.00,"Block: Block 7, Street: 705 Street Building Name/No: 147
+
+ 
+, Mubarak Al-kabir, Fnaitess
+
+Floor: 3,
+Apt.: 4
+Address Type: Building, Apartment/Office: 4
++96555441313",Paid
+2024-01-08 15:39:31.622170+00:00,16:23,yousif,FOOD,94184818,5694,0.00,"Block: قطعة 4, Street: شارع 23 House Name/No: 53
+
+ 
+, Mubarak Al-kabir, Al-Qurain
+
+Address Type: Villa House",Paid
+2024-01-09 12:24:27.089041+00:00,13:01,narjes,FOOD,98031888,5697,0.00,"Block: Block 4, Street: 11 Street House Name/No: 15
+
+ 
+, Mubarak Al-kabir, Sabah Al-Salem
+
+Address Type: Villa House",Paid
+2024-01-11 12:25:26.924539+00:00,13:13,abrar,FOOD,50455543,5709,0.00,"Block: فندق مارينا, Street: الخليج العربي فندق مارينا Office Name/No: فندق مارينا
+
+ 
+, Hawally, Salmiya
+
+Floor: فندق مارينا,
+Apt.: فندق مارينا
+Address Type: Office, Apartment/Office: فندق مارينا",Paid
+2024-01-11 18:20:13.815643+00:00,19:14,husa,FOOD,99451050,5715,0.00,"Block: Block 7, Street: 39 Street House Name/No: House 5
+
+ 
+, Mubarak Al-kabir, Al-Qusour
+
+Address Type: Villa House
++96599451050",Paid
+2024-01-11 18:34:23.398996+00:00,19:15,jack,FOOD,99151589,5716,0.00,"Block: Block 2, Street: 36 Building Name/No: 9
+
+ 
+, Mubarak Al-kabir, Adan
+
+Floor: g,
+Apt.: 9
+Address Type: Building, Apartment/Office: 9
++96599151589",Paid
+2024-01-16 15:59:18.155896+00:00,17:05,aya,FOOD,97687556,5752,0.00,"Block: Block 8, Street: Osama Bin Zeid Street Building Name/No: 3
+
+ 
+, Hawally, Rumaithiya
+
+Floor: 1,
+Apt.: 12
+Address Type: Building, Apartment/Office: 12",Paid
+2024-01-16 16:25:58.619462+00:00,17:05,laila,FOOD,99696572,5753,0.00,"Block: 5, Street: شارع 512 Building Name/No: 235
+
+ 
+, Hawally, Shuhada
+
+Floor: السرداب,
+Apt.: 9
+Address Type: Building, Apartment/Office: 9",Paid
+2024-01-16 18:11:25.292332+00:00,19:23,dina,FOOD,99376237,5757,9.00,"Block: block 9, Street: street 9 Building Name/No: cliffs building number 638
+
+ 
+, Hawally, Salmiya
+
+Floor: floor 11,
+Apt.: apartment 112
+Address Type: Building, Apartment/Office: apartment 112, Additional Directions: Cliffs building where there is tony and guy salon",Cash
+2024-01-18 13:08:09.391552+00:00,14:09,A,FOOD,99414985,5770,0.00,"Block: قطعه 4, Street: 11 Street House Name/No: 15
+
+ 
+, Mubarak Al-kabir, Al-Qusour
+
+Address Type: Villa House",Paid
+2024-01-18 13:28:20.079228+00:00,14:30,g,FOOD,99789373,5771,0.00,"Block: قطعة 7, Street: شارع 73 House Name/No: 18
+
+ 
+, Hawally, Rumaithiya
+
+Address Type: Villa House",Paid
+2024-01-18 14:19:45.515801+00:00,14:48,bader,FOOD,97800282,5772,0.00,"Block: Block 7, Street: 1 St 6 Lane House Name/No: 62
+
+ 
+, Mubarak Al-kabir, Sabah Al-Salem
+
+Address Type: Villa House
++96597800282",Paid
+2024-01-22 15:43:16.259673+00:00,16:58,a2,FOOD,96550751239,5803,0.00,"Block: قطعة 5, Street: 10 Street House Name/No: 7
+
+ 
+, Mubarak Al-kabir, Al-Qurain
+
+Address Type: Villa House",Paid
+2024-01-22 16:07:19.943156+00:00,16:51,saleh,FOOD,55400004,5804,0.00,"Block: block 8, Street: 812 Street House Name/No: house 257
+
+ 
+, Mubarak Al-kabir, Fnaitess
+
+Address Type: Villa House
++96555400004",Paid
+2024-01-23 12:07:53.349034+00:00,12:51,bb,FOOD,50900275,5808,0.00,"Block: Block 1, Street: 117 Building Name/No: 447
+
+ 
+, Mubarak Al-kabir, Sabah Al-Salem
+
+Floor: 4,
+Apt.: 37
+Address Type: Building, Apartment/Office: 37, Additional Directions: عيادة الخليج
++96550900275",Paid
+2024-01-26 13:05:58.298519+00:00,14:04,bader,FOOD,50266620,5823,0.00,"Block: 3, Street: 328 House Name/No: 19
+
+ 
+, Ahmadi, Egaila
+
+Address Type: Villa House",Paid
+2024-01-26 14:58:50.293467+00:00,15:36,YOUSEF,FOOD,96566580180,5825,8.00,"Block: Block 9, Street: Abdul Aziz Bin Abdulrahman Al Saud Road House Name/No: 222A
+
+ 
+, Mubarak Al-kabir, Fnaitess
+
+Address Type: Villa House, Additional Directions: Next to the village, directly across the street of it",Paid
+2024-01-26 15:42:43.392641+00:00,16:30,hussain,FOOD,96594400789,DQTW-YHF4,0.00,"Al-Adan District, Block 2, Street شارع 42, House 22 - قسيمة 552",Paid
+2024-01-26 16:32:44.214679+00:00,17:00,merna,FOOD,50886399,5826,0.00,"Block: Block 11, Street: Baghdad Street Building Name/No: 57
+
+ 
+, Hawally, Salmiya
+
+Floor: 2,
+Apt.: 4
+Address Type: Building, Apartment/Office: 4, Additional Directions: Salmiya block 11 baghdad street
++96550886399",Paid
+2024-01-27 13:33:23.289812+00:00,14:25,khaled,FOOD,90064568,5832,0.00,"Block: قطعة 7, Street: شارع 724 Building Name/No: 77
+
+ 
+, Farwaniya, Abdullah Al-Mubarak - West Jeleeb
+
+Floor: 0,
+Apt.: 0
+Address Type: Building, Apartment/Office: 0",Paid
+2024-01-28 14:31:24.815727+00:00,15:24,mohammad,FOOD,99855709,5834,5.00,"Block: Block 5, Street: 3 Street Building Name/No: 15
+
+ 
+, Hawally, Salwa
+
+Floor: 2,
+Apt.: 2
+Address Type: Building, Apartment/Office: 2, Additional Directions: Side Entrance",Cash
+2024-01-28 15:11:48.470620+00:00,15:50,[VIP] H M,FOOD,96594499789,#5835,0.00,"Block: قطعة 5, Street: شارع سالم الدويلة / Salem Alduwailah Street House Name/No: منزل 27
+
+ 
+, Kuwait City (Capital), Dasma
+Address Type: Villa House",Paid
+2024-01-30 12:41:52.098476+00:00,13:24,amar,FOOD,94112237,5843,0.00,"Block: Block 3, Street: Street 230 Building Name/No: 164
+
+ 
+, Mubarak Al-kabir, Abu Ftaira
+
+Floor: on the right,
+Apt.: 3
+Address Type: Building, Apartment/Office: 3",Paid
